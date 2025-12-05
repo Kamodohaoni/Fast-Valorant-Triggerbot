@@ -55,8 +55,10 @@ py -m pip install interception numpy mss keyboard pywin32
 ```
 
 *(Make sure interception.dll is installed on your system / Đảm bảo `interception.dll` đã cài đặt trên máy.)*
-*interception install link/link cài đặt interception:https://github.com/oblitum/Interception*
-*video tutorial install interception/video hướng dẫn cài đặt interception:https://www.youtube.com/watch?v=dM61_2B_1tM*
+
+### interception install link/link cài đặt interception:https://github.com/oblitum/Interception
+
+### video tutorial install interception/video hướng dẫn cài đặt interception:https://www.youtube.com/watch?v=dM61_2B_1tM
 
 ### 2️⃣ Valorant Settings / Cài đặt Valorant
 
