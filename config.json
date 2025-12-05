@@ -3,5 +3,6 @@
     "base_delay":0.01,
     "trigger_delay":40,
     "color_tolerance": 70,
-    "always_enabled":false
+    "always_enabled":false,
+    "burst_delay": 0.2
 }
