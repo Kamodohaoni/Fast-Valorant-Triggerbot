@@ -70,7 +70,7 @@ py -m pip install interception numpy mss keyboard pywin32
 
 ```json
 {
-    "trigger_hotkey": "0xA0", #will not work,just using tab to turn on/off 
+    "trigger_hotkey": "0xA0", #will not work,just using tab to turn on/off|dòng này sẽ không hoạt động nên hãy sử dụng tab để bật tắt 
     "base_delay": 0.01,
     "trigger_delay": 40,
     "color_tolerance": 70,
