@@ -147,8 +147,13 @@ py -m nuitka --onefile triggerbot.py
 
 ## 📝 Why This Fork? / Tại sao làm fork này?
 
-Original: fast but hardcoded, unstable / Gốc: nhanh nhưng cứng nhắc, không ổn định
-Fork: auto-resolution, burst delay, toggle system, safer & cleaner / Fork: tự động độ phân giải, hỗ trợ burst delay, toggle, an toàn và sạch hơn
+Original: fast but hardcoded, unstable
+
+Gốc: nhanh nhưng cứng nhắc, không ổn định
+
+Fork: auto-resolution, burst delay, toggle system, safer & cleaner 
+
+Fork: tự động độ phân giải, hỗ trợ burst delay, toggle, an toàn và sạch hơn
 
 ---
 
