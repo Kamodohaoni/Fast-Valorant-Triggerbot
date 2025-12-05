@@ -83,7 +83,7 @@ py -m pip install interception numpy mss keyboard pywin32
 
 | Key             | Function                                    | Chức năng                                   |
 | --------------- | ------------------------------------------- | ------------------------------------------- |
-| trigger_hotkey  | VirtualKey code when not always enabled     | Phím kích hoạt khi không bật always_enabled |
+| trigger_hotkey  | this will not work and i replace it with tab| phím này bị thay thế bằng phím bật tắt tab  |
 | base_delay      | Minimum delay between shots                 | Delay tối thiểu giữa các phát bắn           |
 | trigger_delay   | Extra percentage delay on top of base_delay | Delay thêm theo % trên base_delay           |
 | color_tolerance | RGB detection tolerance                     | Độ nhạy quét màu                            |
