@@ -1,6 +1,4 @@
-Chắc chắn! Dưới đây là **README hoàn chỉnh, đầy đủ, song ngữ Anh–Việt**, sẵn sàng dán lên GitHub, tất cả trong một file Markdown:
 
-````markdown
 # 🌌 Fast-Purple Triggerbot (Python Interception Fork)
 
 **The fastest and most stable Python-based triggerbot fork.**  
